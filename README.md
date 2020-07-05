@@ -10,24 +10,20 @@ CONTENT - TBD
 
 ## Project Introduction<a name="intro"></a>
 
-By creating customer segmentation and comparing to general population, one can know which part of the general population are more likely to be customer and which part are not. I analyzed demographics data for customers of a mail-order sales company in Germany, comparing it to demographics information for the general population.    
-Firstly, I used different approaches to pre-process the data, and then I used unsupervised learning techniques, PCA (Principle Componets Analysis) and k-NN (k-nearest neighbor algorithm), to perform customer segmentation and to identify the core customer traits of the company.    
-Secondly, with demographics information for targets of a marketing campaign for the company, I used different models to predict which individuals are most likely to convert into customers.    
-Finally, I also tested the model in competition through kaggle, where the competition is [here](https://www.kaggle.com/c/udacity-arvato-identify-customers/).
+In this project, I analyzed demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information
+for the general population. I've used unsupervised learning techniques (k-nearest neighbo) to perform customer segmentation, identifying the parts of the
+population that best describe the core customer base of the company. Then, I applied what I've learned on a third dataset with demographics 
+information for targets of a marketing campaign for the company, and used a model to predict which individuals are most likely to convert into 
+becoming customers for the company. This model was then submitted into a [Kaggle Competition](https://www.kaggle.com/c/udacity-arvato-identify-customers/).
 
 
 ## File Descriptions <a name="files"></a>
 
-Since the dataset offered by **AZ Direct GmbH** is private and cannot be published, only the meta-data is uploaded here.
+Unfortunately, the dataset offered by **AZ Direct GmbH** cannot be published. The analysis and other data can be found under:
 
-- Arvato_Project_Workbook.ipynb: The main analysis file
-- DIAS_Attributes_Values_2017.xlsx: the meta-data (a detailed mapping of data values for each feature in alphabetical order)
-- DIAS_Information_Levels_Attributes_2017.xlsx: the meta-data (a top-level list of attributes and descriptions, organized by informational category)
-- predic_result_lr.csv - the rediction results (used logistic regression)
-- predic_result_lr_PCA20.csv - the rediction results (used logistic regression and 20 PCA componets only)
-- predic_result_rf.csv - the rediction results (used random forest)
-
-
+- Arvato_Project_Workbook.ipynb: The main notebook, where the complete analysis can be found
+- DIAS_Attributes_Values_2017.xlsx: a detailed mapping of data values for each feature in alphabetical order
+- DIAS_Information_Levels_Attributes_2017.xlsx: a top-level list of attributes and descriptions, organized by informational category
 
 ## Results<a name="results"></a>
 
