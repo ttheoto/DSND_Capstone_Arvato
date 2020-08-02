@@ -25,10 +25,10 @@ Unfortunately, the dataset offered by **AZ Direct GmbH** cannot be published. Th
 
 ## Results<a name="results"></a>
 
-- Clustering: How do the current customers differ from the population at large?
+**Clustering: How do the current customers differ from the population at large?**
 * In summary, we notice that older, financially prepared individuals, as well as richer, educated, luxury car owners are more likely to be the mail-order customers. In contrast, financially conservative, suburban families, together with online educated individuals, living in central areas, are less likely to be the company’s customers.
 
-- Prediction Model: Which individuals are most-likely to respond to a marketing campaign and to become customers?
+**Prediction Model: Which individuals are most-likely to respond to a marketing campaign and to become customers?**
 * A XGBoost Regression Model was used, but led to unsatisfactory results (AUC = 0.57). A detailed analysis can be found in my [Medium post](https://medium.com/@t.theoto/segmenting-customers-and-supporting-a-targeted-marketing-campaign-a-data-science-approach-60fe4eee2b06)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
@@ -37,4 +37,4 @@ Everything need to follow Udacity's Terms of Use and other policies. The use of 
 
 ## Feedback<a name="fb"></a>
 
-If you have any comments or feedback, do not hesitate to contact me via the comment session of my [Medium post](https://medium.com/@t.theoto/segmenting-customers-and-supporting-a-targeted-marketing-campaign-a-data-science-approach-60fe4eee2b06)
+If you have any comments or feedback, do not hesitate to contact me via the comment session of my [Medium post](https://medium.com/@t.theoto/segmenting-customers-and-supporting-a-targeted-marketing-campaign-a-data-science-approach-60fe4eee2b06)!
