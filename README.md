@@ -26,6 +26,7 @@ Unfortunately, the dataset offered by **AZ Direct GmbH** cannot be published. Th
 - DIAS Information Levels - Attributes 2017.xlsx: a top-level list of attributes and descriptions, organized by informational category
 - DIAS Attributes - Values 2017.xlsx: a detailed mapping of data values for each feature in alphabetical order
 - DIAS_Attributes_Summary_DSND1.csv: includes attribute data types and missing data mapping
+- Kaggle_submission.csv: final predictions for Kaggle Competition.
 
 ## Results<a name="results"></a>
 
