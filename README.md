@@ -40,6 +40,8 @@ Unfortunately, the dataset offered by **AZ Direct GmbH** cannot be published. Th
 
 I must give credit to Udacity and Bertelsman Arvato for the data. The use of the **AZ Direct GmbH** data is solely to complete the data mining task which is part of the **Unsupervised Learning** and **Capstone** projects for the Udacity Data Science Nanodegree program. Using the **AZDirect GmbH** data in any other context is prohibited.
 
+Also, many thanks to KuanYao Huang for providing an eye opening [Medium article](https://towardsdatascience.com/udacity-data-scientice-nano-degree-capstone-project-create-customer-segmentation-report-for-852d3e6d3180) on the topic.
+
 Otherwise, feel free to use the code here as you would like! 
 
 If you have any comments or feedback, do not hesitate to contact me via the comment session of my [Medium post](https://medium.com/@t.theoto/segmenting-customers-and-supporting-a-targeted-marketing-campaign-a-data-science-approach-60fe4eee2b06)!
