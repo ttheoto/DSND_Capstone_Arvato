@@ -8,7 +8,15 @@
 
 ## Installation <a name="installation"></a>
 
-The [xgboost](https://xgboost.readthedocs.io/en/latest/python/) package should be installed, as well as [Imblearn](https://imbalanced-learn.readthedocs.io/en/stable/).
+The following libraries were used:
+* [xgboost](https://xgboost.readthedocs.io/en/latest/python/)
+* [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/)
+* [sklearn](https://scikit-learn.org/stable/)
+* [numpy](https://numpy.org/doc/stable/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [seaborn](https://seaborn.pydata.org/)
+
 The code should run with no issues using the Anaconda Package (Python versions 3.*.)
 
 ## Project Motivation<a name="motivation"></a>
