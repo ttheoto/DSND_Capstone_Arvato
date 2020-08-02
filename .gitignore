@@ -1,5 +1,8 @@
 
-*.csv
 xgb_model.pkl
 *.pkl
 .ipynb_checkpoints/Arvato Project Workbook-checkpoint.ipynb
+Udacity_AZDIAS_052018.csv
+Udacity_MAILOUT_052018_TEST.csv
+Udacity_MAILOUT_052018_TRAIN.csv
+Udacity_CUSTOMERS_052018.csv
