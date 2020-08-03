@@ -8,7 +8,15 @@
 
 ## Installation <a name="installation"></a>
 
-The [xgboost](https://xgboost.readthedocs.io/en/latest/python/) package should be installed, as well as [Imblearn](https://imbalanced-learn.readthedocs.io/en/stable/).
+The following libraries were used:
+* [xgboost](https://xgboost.readthedocs.io/en/latest/python/)
+* [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/)
+* [sklearn](https://scikit-learn.org/stable/)
+* [numpy](https://numpy.org/doc/stable/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [seaborn](https://seaborn.pydata.org/)
+
 The code should run with no issues using the Anaconda Package (Python versions 3.*.)
 
 ## Project Motivation<a name="motivation"></a>
@@ -26,6 +34,7 @@ Unfortunately, the dataset offered by **AZ Direct GmbH** cannot be published. Th
 - DIAS Information Levels - Attributes 2017.xlsx: a top-level list of attributes and descriptions, organized by informational category
 - DIAS Attributes - Values 2017.xlsx: a detailed mapping of data values for each feature in alphabetical order
 - DIAS_Attributes_Summary_DSND1.csv: includes attribute data types and missing data mapping
+- Kaggle_submission.csv: final predictions for Kaggle Competition.
 
 ## Results<a name="results"></a>
 
@@ -38,6 +47,8 @@ Unfortunately, the dataset offered by **AZ Direct GmbH** cannot be published. Th
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 I must give credit to Udacity and Bertelsman Arvato for the data. The use of the **AZ Direct GmbH** data is solely to complete the data mining task which is part of the **Unsupervised Learning** and **Capstone** projects for the Udacity Data Science Nanodegree program. Using the **AZDirect GmbH** data in any other context is prohibited.
+
+Also, many thanks to KuanYao Huang for providing an eye opening [Medium article](https://towardsdatascience.com/udacity-data-scientice-nano-degree-capstone-project-create-customer-segmentation-report-for-852d3e6d3180) on the topic.
 
 Otherwise, feel free to use the code here as you would like! 
 
